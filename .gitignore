@@ -1,0 +1,5 @@
+.DS_Store
+.zsh_history
+.zcompdump*
+.zsh_sessions
+*.swp
